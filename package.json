@@ -1,0 +1,20 @@
+{
+  "name": "dummy-server",
+  "version": "1.0.0",
+  "description": "Learning to build an Express.js server from scratch",
+  "homepage": "https://github.com/Yehuda-Zev/dummy-server#readme",
+  "bugs": {
+    "url": "https://github.com/Yehuda-Zev/dummy-server/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yehuda-Zev/dummy-server.git"
+  },
+  "license": "ISC",
+  "author": "Yehuda Zev",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
